@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 ## Hi there, I'm Pedro Casaes <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 📖 I’m currently learning JavaScript
@@ -9,7 +10,7 @@
 
 <a href="mailto:pcs_pedro@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pedrocasaes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
+<br><br><br><br><br>
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/PedroCasaes">
