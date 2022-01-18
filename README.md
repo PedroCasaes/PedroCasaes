@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/pedrocasaes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br><br>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/PedroCasaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroCasaes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCasaes&layout=compact&langs_count=7&theme=onedark"/>
